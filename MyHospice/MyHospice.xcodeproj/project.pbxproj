@@ -13,7 +13,9 @@
 		F544B99A1CCEF89800D06CDB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F544B9991CCEF89800D06CDB /* Assets.xcassets */; };
 		F544B99D1CCEF89800D06CDB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F544B99B1CCEF89800D06CDB /* LaunchScreen.storyboard */; };
 		F544B9A81CCEF89800D06CDB /* MyHospiceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F544B9A71CCEF89800D06CDB /* MyHospiceTests.swift */; };
-		F544B9B31CCF28DD00D06CDB /* tailgate.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F544B9B21CCF28DD00D06CDB /* tailgate.jpg */; };
+		F544B9B51CCF32A800D06CDB /* pic1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F544B9B41CCF32A800D06CDB /* pic1.jpg */; };
+		F544B9B71CCF32E900D06CDB /* pic2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F544B9B61CCF32E900D06CDB /* pic2.jpg */; };
+		F544B9B91CCF335E00D06CDB /* Screen Shot 2016-04-26 at 12.25.26 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = F544B9B81CCF335E00D06CDB /* Screen Shot 2016-04-26 at 12.25.26 AM.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,7 +39,9 @@
 		F544B9A31CCEF89800D06CDB /* MyHospiceTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyHospiceTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F544B9A71CCEF89800D06CDB /* MyHospiceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyHospiceTests.swift; sourceTree = "<group>"; };
 		F544B9A91CCEF89800D06CDB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F544B9B21CCF28DD00D06CDB /* tailgate.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = tailgate.jpg; path = ../../../tailgate.jpg; sourceTree = "<group>"; };
+		F544B9B41CCF32A800D06CDB /* pic1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = pic1.jpg; path = ../../4330/pic1.jpg; sourceTree = "<group>"; };
+		F544B9B61CCF32E900D06CDB /* pic2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = pic2.jpg; path = ../../../4330/pic2.jpg; sourceTree = "<group>"; };
+		F544B9B81CCF335E00D06CDB /* Screen Shot 2016-04-26 at 12.25.26 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2016-04-26 at 12.25.26 AM.png"; path = "../../../Screen Shot 2016-04-26 at 12.25.26 AM.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +65,7 @@
 		F544B9861CCEF89800D06CDB = {
 			isa = PBXGroup;
 			children = (
+				F544B9B41CCF32A800D06CDB /* pic1.jpg */,
 				F544B9911CCEF89800D06CDB /* MyHospice */,
 				F544B9A61CCEF89800D06CDB /* MyHospiceTests */,
 				F544B9901CCEF89800D06CDB /* Products */,
@@ -82,7 +87,8 @@
 				F544B9921CCEF89800D06CDB /* AppDelegate.swift */,
 				F544B9941CCEF89800D06CDB /* ViewController.swift */,
 				F544B9961CCEF89800D06CDB /* Main.storyboard */,
-				F544B9B21CCF28DD00D06CDB /* tailgate.jpg */,
+				F544B9B81CCF335E00D06CDB /* Screen Shot 2016-04-26 at 12.25.26 AM.png */,
+				F544B9B61CCF32E900D06CDB /* pic2.jpg */,
 				F544B9991CCEF89800D06CDB /* Assets.xcassets */,
 				F544B99B1CCEF89800D06CDB /* LaunchScreen.storyboard */,
 				F544B99E1CCEF89800D06CDB /* Info.plist */,
@@ -182,9 +188,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F544B9B91CCF335E00D06CDB /* Screen Shot 2016-04-26 at 12.25.26 AM.png in Resources */,
+				F544B9B51CCF32A800D06CDB /* pic1.jpg in Resources */,
+				F544B9B71CCF32E900D06CDB /* pic2.jpg in Resources */,
 				F544B99D1CCEF89800D06CDB /* LaunchScreen.storyboard in Resources */,
 				F544B99A1CCEF89800D06CDB /* Assets.xcassets in Resources */,
-				F544B9B31CCF28DD00D06CDB /* tailgate.jpg in Resources */,
 				F544B9981CCEF89800D06CDB /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
