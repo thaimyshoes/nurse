@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9F19F06A2686078BDB86EADD1543D9D9A0AA63EC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9F19F06A2686078BDB86EADD1543D9D9A0AA63EC" : 0,
+    "A772962A5D35E8230A45AE928B01EC4C81239017" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A1927013-CDF1-45A6-8C5B-498F4CC92321",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9F19F06A2686078BDB86EADD1543D9D9A0AA63EC" : "Testrun\/",
+    "A772962A5D35E8230A45AE928B01EC4C81239017" : "Testrun\/MyHospice\/MyHospice\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MyHospice",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MyHospice\/MyHospice.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/thaimyshoes\/nurse.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9F19F06A2686078BDB86EADD1543D9D9A0AA63EC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/thaimyshoes\/MyHospice.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A772962A5D35E8230A45AE928B01EC4C81239017"
+    }
+  ]
+}
