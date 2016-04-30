@@ -360,9 +360,6 @@
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                             </button>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Screen Shot 2016-04-26 at 12.25.26 AM.png" translatesAutoresizingMaskIntoConstraints="NO" id="hq5-7h-UCf">
-                                <rect key="frame" x="205" y="7" width="190" height="75"/>
-                            </imageView>
                         </subviews>
                         <color key="backgroundColor" red="0.58686978180000005" green="0.45651832660000002" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                     </view>
@@ -373,12 +370,11 @@
         </scene>
     </scenes>
     <resources>
-        <image name="Screen Shot 2016-04-26 at 12.25.26 AM.png" width="478" height="167"/>
         <image name="pic1.jpg" width="900" height="675"/>
         <image name="pic2.jpg" width="3264" height="2448"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="qPW-Vf-Fco"/>
+        <segue reference="ozM-MI-DfV"/>
         <segue reference="A01-SR-oos"/>
     </inferredMetricsTieBreakers>
 </document>
